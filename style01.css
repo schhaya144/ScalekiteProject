@@ -238,7 +238,7 @@ body {
 .toolpop {
   position: absolute;
   top: 58%;
-  right: 140px;
+  right: 155px;
   box-sizing: border-box;
   opacity: 0;
   transform: translateY(0);
