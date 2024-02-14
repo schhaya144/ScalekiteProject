@@ -315,7 +315,7 @@ body {
 }
 @media (max-width: 1075px) {
   .add-cart-btn {
-    width: 16rem;
+    width: 12rem;
   }
 }
 
@@ -325,7 +325,7 @@ body {
 }
 @media (max-width: 992px) {
   .buy-now-btn {
-    width: 8rem;
+    width: 6rem;
   }
 }
 .buy-now-btn:hover {
